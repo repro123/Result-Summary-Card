@@ -12,8 +12,7 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  font-family: "Hanken Grotesk", "Gill Sans", "Gill Sans MT", "Trebuchet MS",
-    sans-serif;
+  font-family: "Hanken Grotesk";
   font-size: 1.125rem;
   line-height: 2rem;
 }
